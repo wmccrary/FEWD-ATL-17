@@ -1,0 +1,26 @@
+body {
+	background: lightgray;
+	border: 5px solid black;
+	padding: 40px;
+	text-align: center;
+	font-family: arial, helvetica, sans-serif;
+	color: #222;
+}
+
+h1 {
+	font-size: 50px;
+}
+
+hr {
+	border: none;
+	border: 1px solid #222;
+}
+
+p {
+	font-family: Georgia, serif;
+	font-size: 24px;
+}
+
+a {
+	color: #222;
+}
