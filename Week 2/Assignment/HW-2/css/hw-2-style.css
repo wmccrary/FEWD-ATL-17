@@ -1,0 +1,117 @@
+
+
+
+body{
+
+	color: #f0efef;
+  font-size: 26px;
+  line-height: 1.4;
+  color: #606161;
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  font-weight: 300;
+}
+
+
+.container {
+  width: 960px;
+  margin: 0 auto;
+}
+
+.logo {
+  font-size: 48px;
+  font-weight: 800;
+}
+
+
+header{
+	background: url("../images/header_bg.jpg")
+	width: 100px;
+	padding-top: 32px;
+	height: 700px;
+}
+h1{
+	font-weight: 300;
+	font-size: 24px;
+}
+
+h2{
+	font-weight: 300; 
+	font-size: 24px;
+	
+}
+
+.button {
+  border-radius: 5px;
+  font-weight: 800;
+  padding: 12px 0;
+  width: 280px;
+  font-size: 28px;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+
+h5{
+	font-weight: 600;
+	font-size: 14px;
+	border-radius: 5px;
+}
+
+h3{
+	font-size: 20px
+	font-weight: 300;
+}
+
+p{
+	font-weight: 100;
+	font-size: 13px;
+}
+
+ul{
+	font-weight: lighter;
+	font-size: 13px;
+}
+
+blocked-quote{
+	font-weight: 300;
+	font-size: 18px;
+}
+
+h4{
+	font-weight: 600;
+	font-size: 12px;
+	border-radius: 5px;
+}
+
+h6{
+	font-weight: 300;
+	font-size: 9px;
+
+}
+
+.content{
+	background: #f9e42e;
+	margin: auto;
+	padding: 10px
+	width: 50%;
+}
+
+.quote{
+	align-content: center;
+
+}
+
+.aside{
+	align-content: center;
+
+}
+
+.footer{
+	align-content: center;
+
+
+}
+
+body{
+
+}
+
