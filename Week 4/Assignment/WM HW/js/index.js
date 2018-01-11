@@ -1,9 +1,29 @@
 $(document).ready(function() {
-	$(document).click(function(event);
-		event.preventDefault();
+	
+	$('.readmore').click(showparagraph);
+		function showparagraph(e){
+			e.preventDefault();
+		
+		$('#show-this-on-click').slidedown();
+		$('readmore').hide();
+		$('.readless').show();
+
+	$('.readless').click(function)(e){
+		e.preventDefault();
+	}
+
+	}
+
+
+
+
+
+
 	
 
-	$('.readmore a').click(function(){
+	$('.readmore a').click();(showparagraph);
+
+	(function(){
 		$('#show-this-on-click').slideDown();
 	});
 	$('.readmore a').click(function(){
