@@ -12,20 +12,30 @@
  * When, button 1 is clicked, select all paragraphs on the page with jQuery, and changed the color to blue.
  * We've started you off, replace the sec
  */
+<<<<<<< HEAD
 	$('#button1').click(question1);
 		function question1(){
 			$('p').css('color','blue');
 		} 
 
+=======
+ 
+	
+>>>>>>> upstream/master
 
 /**
  * Question 2:
  * When button 1 is clicked, select all <h2> elements on this page, and change the text to say your name.
  */
+<<<<<<< HEAD
  	$('#button2').click(question2);
  		function question2(){
  			$('h2').text('Welton')
  		}
+=======
+
+	
+>>>>>>> upstream/master
 
 /**
  * Question 3:
@@ -33,11 +43,15 @@
  * Using jQuery change the content to read "True Fact".
  */
 
+<<<<<<< HEAD
 	$('#button1').click(question3);
 
 		function question3(){
 			$('.falseFact').text('True Fact');
 		}
+=======
+	
+>>>>>>> upstream/master
 
 
 //SECTION 2: Now you are on your own. Write the necessary code to accomplish the following.
